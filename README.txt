@@ -1,4 +1,4 @@
-**Frontend Portfolio Showcase**
+**Frontend Portflio Showcase**
 
 Welcome to my frontend portfolio showcase, where I present a collection of projects that reflect my journey and proficiency in frontend development. Each project represents my dedication to creating intuitive user interfaces and my continuous growth as a developer.
 
